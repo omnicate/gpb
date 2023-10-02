@@ -7,4 +7,6 @@
 
 -define(gpb_version, "4.20.0").
 
+-define(gpb_version_source, "4.20.0").
+
 -endif. %% gpb_version_hrl
